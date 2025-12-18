@@ -1,0 +1,24 @@
+name = "AugmentedTTN"
+uuid = "59ee2933-59f5-44fa-9b74-f2d034705fe7"
+authors = ["Acho "]
+version = "0.1.0"
+
+[deps]
+GilbertCurves = "88fa7841-ef32-4516-bb70-c6ec135699d9"
+ITensorMPS = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
+
+[compat]
+GilbertCurves = "0.1.0"
+ITensorMPS = "0.3.25"
+ITensors = "0.9.15"
+JLD2 = "0.6.3"
+Optim = "1.13.3"
+Printf = "1.11.0"
+StatsBase = "0.34.9"
+ThreadsX = "0.1.12"
